@@ -177,7 +177,7 @@ local function bnode(node, parentInst)
         return
     end
 
-    countnode += 1
+    count += 1
     hint.Text = string.format("Creating objects... (%d/%d)", count, total)
 
     if node.Name then
