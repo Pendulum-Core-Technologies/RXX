@@ -26,9 +26,9 @@ local properties = {
     "MaxSpeed", "MaxThrust", "ThrustD", "ThrustP", "TurnD", 
     "TurnP", "Opacity", "RiseVelocity", "SoundId", 
     "Playing", "Looped", "Volume", "Pitch", "PlayOnRemove", 
-    "Locked", "BrickColor", "Fog", "Health", "MaxHealth", 
+    "Locked", "Fog", "Health", "MaxHealth", 
     "WalkSpeed", "Sit", "PlatformStand", "FallenPartsDestroyHeight",
-    "FogColor", "FogEnd", "FogStart", "TeamColor"
+    "FogColor", "FogEnd", "FogStart"
 }
 -- huge ass table ^^
 
