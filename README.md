@@ -1,4 +1,4 @@
-Hello, Pendulum Core is here. [ RBXTest North ]
+Hello, Pendulum Core is here [ RBXTest North ].
 Yes, the people behind Cristiano100's demotion.
 
 We've decided to release a RetroStudio script that can copy almost ANY game possible.
