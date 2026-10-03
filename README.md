@@ -19,3 +19,6 @@ Done.
 If there are any bugs, report it to us by DMing @j5vz on Discord, or joining our Discord server via @rbxtest on YouTube.
 RXX has an MIT License, meaning you can distribute RXX however you want. All we want is *credit*.
 ![rxx](/Images/rxx.png)
+
+# IMAGES
+![img1](/Images/img1.png)
