@@ -87,6 +87,8 @@ local function dcval(val)
             return Vector3.new(val[2], val[3], val[4])
         elseif tag == "C3" then
             return Color3.new(val[2], val[3], val[4])
+        elseif tag == "BC" then
+            return BrickColor.new(val[2])
         elseif tag == "CF" then
             return CFrame.new(table.unpack(val[2]))
         elseif tag == "Enum" then
