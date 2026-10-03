@@ -43,6 +43,8 @@ local function parsev(v)
         return {"V3", v.X, v.Y, v.Z}
     elseif t == "Color3" then
         return {"C3", v.R, v.G, v.B}
+    elseif t == "BrickColor" then
+        return {"BC", v.Name}
     elseif t == "CFrame" then
         return {"CF", {v:GetComponents()}}
     elseif t == "EnumItem" then
