@@ -27,8 +27,8 @@ local properties = {
     "TurnP", "Opacity", "RiseVelocity", "SoundId", 
     "Playing", "Looped", "Volume", "Pitch", "PlayOnRemove", 
     "Locked", "Fog", "Health", "MaxHealth", 
-    "WalkSpeed", "Sit", "PlatformStand", "FallenPartsDestroyHeight",
-    "FogColor", "FogEnd", "FogStart"
+    "WalkSpeed", "Sit", "PlatformStand", "FallenPartsDestroyHeight", 
+    "FogColor", "FogEnd", "FogStart", "Image", "ImageTransparency", 
 }
 -- huge ass table ^^
 
