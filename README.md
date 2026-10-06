@@ -22,3 +22,5 @@ RXX has an MIT License, meaning you can distribute RXX however you want. All we 
 
 # IMAGES
 ![img1](/Images/img1fix.png)
+![img2](/Images/img2.png)
+![img3](/Images/img3.png)
